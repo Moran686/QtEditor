@@ -20,27 +20,27 @@
 # 一些界面功能页面展示
 #### 主页面
 
-[主页](images/home.png)
+![主页](images/home.png)
 
 #### 多窗口
 
-[多窗口](images/midArea.png)
+![多窗口](images/midArea.png)
 
 #### 工具栏
 
-[文件](./images/menu1.png)
-[编辑](./images/menu2.png)
-[格式](./images/menu3.png)
-[窗体](./images/menu4.png)
-[查看](./images/menu5.png)
+![文件](./images/menu1.png)
+![编辑](./images/menu2.png)
+![格式](./images/menu3.png)
+![窗体](./images/menu4.png)
+![查看](./images/menu5.png)
 
 #### 查找与替换
 
-[查找](./images/findDialog.png)
-[替换](./images/replaceDialog.png)
+![查找](./images/findDialog.png)
+![替换](./images/replaceDialog.png)
 
 # 基本功能演示
-[演示](./images/show.gif)
+![演示](./images/show.gif)
 
 # 问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流

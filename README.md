@@ -18,29 +18,28 @@
 * 对查找的固定字段进行文本替换
 
 # 一些界面功能页面展示
-#### 主页面
+### 主页面
 
-![主页](images/home.png)
+<img src="./images/home.png" width="700px">
 
-#### 多窗口
+### 多窗口
 
-![多窗口](images/midArea.png)
+<img src="./images/midArea.png" width="700px">
 
-#### 工具栏
+### 工具栏
 
-![文件](./images/menu1.png)
-![编辑](./images/menu2.png)
-![格式](./images/menu3.png)
-![窗体](./images/menu4.png)
-![查看](./images/menu5.png)
+<img src="./images/menu2.png" width="200px"><img src="./images/menu3.png" width="160px">
+<img src="./images/menu1.png" width="200px"><img src="./images/menu4.png" width="200px">
+<img src="./images/menu5.png" width="160px">
 
-#### 查找与替换
+### 查找与替换
 
-![查找](./images/findDialog.png)
-![替换](./images/replaceDialog.png)
+<img src="./images/findDialog.png" width="400px">
+<img src="./images/replaceDialog.png" width="400px">
 
 # 基本功能演示
-![演示](./images/show.gif)
+
+<img src="./images/show.gif" width="700px">
 
 # 问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
